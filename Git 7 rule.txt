@@ -1,0 +1,7 @@
+1. separate the subject from body with a blank line. 
+2. limit the subject line to 50 characters
+3. capitalize the subject line
+4. do not end the subject line with a period. 
+5. Use imperative mood in the subject line
+6. wrap the body at 72 characters
+7. use the body to explain what and why versus how 
